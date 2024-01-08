@@ -55,7 +55,7 @@ function App() {
       <Parallax strength={600} >
         <div className="content-two">
           <div className="text-content-two">
-            <h1 style={{marginBottom:"3%"}}>Powered By Nature</h1>
+            <h1 style={{marginBottom:"3%"}}>More About.</h1>
             <p>Nature refers to the natural world and the environment that surrounds us, encompassing everything from landscapes and ecosystems to plants, animals, and the physical elements such as air, water, and soil. It represents the complex, interconnected web of life on Earth, showcasing the diversity and beauty of our planet.
               Nature plays a crucial role in sustaining life, providing essential resources like clean air, water, food, and materials. It serves as a source of inspiration for art, literature, and spirituality. Beyond its practical and aesthetic value, nature also offers numerous benefits to human well-being, contributing to physical and mental health.
               Exploring nature encourages a sense of wonder and awe, fostering a deeper understanding of the intricate balance and resilience of natural systems. Conservation efforts aim to protect and preserve these ecosystems, recognizing the importance of maintaining biodiversity for the health of the planet and future generations.
