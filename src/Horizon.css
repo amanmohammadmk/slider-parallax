@@ -12,7 +12,7 @@
     font-size: 24px;
   }
   
-  /* Responsive Styles */
+
   @media (max-width: 768px) {
     .hori {
       width: 90%;
