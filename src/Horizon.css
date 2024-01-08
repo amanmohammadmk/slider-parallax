@@ -1,0 +1,25 @@
+.hori {
+    width: 80%;
+    margin: 2rem auto;
+  }
+  
+  .slick-slide img {
+    width: 100%;
+    border-radius: 20px;
+  }
+  
+  .slick-prev, .slick-next {
+    font-size: 24px;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .hori {
+      width: 90%;
+    }
+  
+    .slick-prev, .slick-next {
+      font-size: 18px;
+    }
+  }
+  
